@@ -1,6 +1,6 @@
 # vue-grid-unit
 
-> A Vue.js project
+> vue表格组件，基于elementUI table/pageNation 二次封装
 
 ## Build Setup
 
